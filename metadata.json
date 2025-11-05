@@ -1,0 +1,5 @@
+{
+  "name": "MicroHabits",
+  "description": "A simple app to help you build one tiny habit per week. Set a small goal, track your daily progress, and build a consistent streak.",
+  "requestFramePermissions": []
+}
